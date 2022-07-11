@@ -35,10 +35,4 @@ You can review my full analysis in my [Jupyter Notebook](https://github.com/kama
 For any additional questions, please contact Nurgul Kurbanali kyzy at nurkamalova@gmail.com
 
 #### Repository Structure
-├── dataset <p>
-├── images <p>
-├── README.md  <p>
-├── notebook.ipynb <p>
-├── README.md <p>
-├── presentation.pdf  <p>
-└── src.py   <p>
+
