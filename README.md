@@ -1,7 +1,7 @@
 ![](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/images/banner.jpg)
-## Customer Classification for Bank Direct Marketing
+# Customer Classification for Bank Direct Marketing
 #### Author: Nurgul Kurbanali kyzy
-## Table of Contents
+### Table of Contents
 * Overview
 * Business Understanding
 * Data Understanding
