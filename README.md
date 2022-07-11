@@ -33,6 +33,7 @@ This modelling is based on behaviour of clients and not on their motivations. Th
 ### For More Information
 You can review my full analysis in my [Jupyter Notebook](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/notebook.ipynb) or my [presentation](). <p>
 For any additional questions, please contact Nurgul Kurbanali kyzy at nurkamalova@gmail.com
+
 #### Repository Structure
 ├── dataset
 ├── images
