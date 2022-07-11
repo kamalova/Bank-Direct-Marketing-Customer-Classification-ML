@@ -24,11 +24,11 @@ Data set is taken from [UCI Machine Learning repository](https://archive.ics.uci
 Among all models that I build, Logistic Regression and Random Forest algorithms performed well. An oversampling technique such as SMOTENC did not much help on models' performance. As a final and best model I chose Random Forest with the recall score 84% and an accuracy score 84%. Mainly model does a good job of decreasing false-positive which leads to avoiding losing future customers but identifying them as SUBSCRIBED.<p>
 ![](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/images/conf_matrix.png)<p>
 ![](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/images/class_report.png)<p>
-
 ### Recommendations
 ![](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/images/feat_importance.png)
 1. Develop a marketing strategies during the Calls: Since duration of the call is the feature that most positively correlates with whether a potential client will subscribe to a term deposit or not, by providing an interesting questionaire for potential clients during the calls the conversation length might increase. Of course, this does not assure us that the potential client will suscribe to a term deposit! Nevertheless, we don't loose anything by implementing a strategy that will increase the level of engagement of the potential client leading to an increase probability of suscribing to a term deposit.
 2. The successful outcome of the previous marketing campaign did positively affect customers to subscribe to upcoming campaigns.I would highly recommend developing a loyalty program for the previously subscribed clients by giving them some bonuses and unique offers.
 3. House Loans and Balances: Potential clients in the average and high balances are less likely to have a house loan and therefore, more likely to open a term deposit. Lastly, the next marketing campaign should focus on individuals of average and high balances in order to increase the likelihood of suscribing to a term deposit
-  
+### Future Consideration
+This modelling is based on behaviour of clients and not on their motivations. The features reveal the actions of client but not his/her thought process. So more descriptive features can be useful here for example interview summary. In that case natural language processing will give better results. In these times of crisis preserving the relationship with best customers is more crucial than ever. Using these results bank can specifically target clients and gain higher success in their endeavours. Saving a lot of time by not focusing on clients with less probability is yet another advantages of this project
   
