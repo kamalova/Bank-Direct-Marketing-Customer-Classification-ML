@@ -21,6 +21,6 @@ The goal of this project is to building Machine Learning model that learns the u
 ### Data Understanding
 Data set is taken from [UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing). This data based on direct marketing campaigns of a Portuguese banking institution. The marketing campaigns are based on phone calls and related to 17 campaigns, which occurred from May 2008 to November 2010. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (or not) subscribed.
 ### Conclusion 
-[](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/images/conf_matrix.jpg)
-[](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/images/conf_report.jpg)
+![](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/images/conf_matrix.jpg)
+![](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/images/conf_report.jpg)
 Among all models that I build, Logistic Regression and Random Forest algorithms performed well. An oversampling technique such as SMOTENC did not much help on models' performance. As a final and best model I chose Random Forest with the recall score 84% and an accuracy score 84%. Mainly model does a good job of decreasing false-positive which leads to avoiding losing future customers but identifying them as SUBSCRIBED.
