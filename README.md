@@ -30,7 +30,7 @@ Among all models that I build, Logistic Regression and Random Forest algorithms 
 This modelling is based on behaviour of clients and not on their motivations. The features reveal the actions of client but not his/her thought process. So more descriptive features can be useful here for example interview summary. In that case natural language processing will give better results. In these times of crisis preserving the relationship with best customers is more crucial than ever. Using these results bank can specifically target clients and gain higher success in their endeavours. Saving a lot of time by not focusing on clients with less probability is yet another advantages of this project
   
 ### For More Information
-You can review my full analysis in my [Jupyter Notebook](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/notebook.ipynb) or my [presentation](). <p>
+You can review my full analysis in my [Jupyter Notebook](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/notebook.ipynb) or my [presentation](https://github.com/kamalova/Customer-Classification-for-Bank-Direct-Marketing/blob/main/presentation.pdf). <p>
 For any additional questions, please contact Nurgul Kurbanali kyzy at nurkamalova@gmail.com
 
 #### Repository Structure
